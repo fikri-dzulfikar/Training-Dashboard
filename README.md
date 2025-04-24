@@ -1,2 +1,2 @@
-# Training-Dashboard
-Training dashboard
+# Competency-Management
+Competency Management
